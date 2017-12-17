@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sorting_criteria_key">
+        <item>Most popular</item>
+        <item>Top-rated</item>
+        <item>Upcoming</item>
+        <item>Now Playing</item>
+    </string-array>
+    <string-array name="sort_criteria_value">
+        <item>popular</item>
+        <item>top_rated</item>
+        <item>upcoming</item>
+        <item>now_playing</item>
+    </string-array>
+</resources>
